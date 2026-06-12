@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blockchainManifest>
+  <chain name="goerli" chainId="5" />
+  <contract>
+    <name>DataRegistry</name>
+    <address></address> <!-- fill after deploy -->
+  </contract>
+  <records>
+    <!-- Add <record> entries here after anchoring. Example:
+    <record id="0">
+      <ipfsHash>Qm...</ipfsHash>
+      <title>Example page title</title>
+      <source>https://example.com/page</source>
+      <tags>
+        <tag>little endian</tag>
+        <tag>big o</tag>
+        <tag>blockchain</tag>
+      </tags>
+      <occurrences>
+        <name_matches>1</name_matches>
+        <little_endian>0</little_endian>
+        <big_o>2</big_o>
+        <f_k_a>0</f_k_a>
+        <blockchain>1</blockchain>
+      </occurrences>
+      <scrapedAt>2026-06-12T16:54:16Z</scrapedAt>
+      <txHash></txHash>
+    </record>
+    -->
+  </records>
+  <generatedBy>FeliciaDataBot</generatedBy>
+  <generatedAt>2026-06-12T16:54:16Z</generatedAt>
+</blockchainManifest>
